@@ -1,4 +1,5 @@
 # Submission Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud
+![alt text](https://github.com/levianitar/bookshelf-api/blob/main/public/screenshot.png?raw=true)
 
 ## Kriteria
 Terdapat 7 kriteria utama yang harus Anda penuhi dalam membuat proyek Bookshelf API.
